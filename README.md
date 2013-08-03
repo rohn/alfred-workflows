@@ -8,6 +8,6 @@ metro transit bus info
 
 This is derived from the work David Ferguson did on his Weather workflow. The difference is that it provides MetroTransit bus arrival times instead of weather conditions. It also relies upon Corey Maul's [MetroTransit-API](https://github.com/cmaul/MetroTransit-API) which provides MetroTransit.org data in easily digestable JSON format.
 
-The workflow responds to the keywords 'busroute', 'busdirection', 'busstop', and 'nexttrip'. It is important that you set your default bus route, direction, and stop using the keywords before requesting next arrival times.
+The workflow responds to the keywords `busroute`, `busdirection`, `busstop`, and `nexttrip`. It is important that you set your default bus route, direction, and stop using the keywords before requesting next arrival times.
 
 [Binary download](http://intensiveporpoises.com/alfred/MetroTransitMN.alfredworkflow)
